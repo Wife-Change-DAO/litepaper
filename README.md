@@ -10,7 +10,9 @@ WCM will be released as a vanilla ERC20 token on the Binance Smart Chain. There 
 However if you do feel like trading a commodity with TA, you can perfect trade the WCM token with a peace of mind due to its fair launch nature. Maybe the project fails and everyone has sold. The price is depressed and stays depressed for very long time. Maybe everyone in the DAO has forgetten about it and no longer delivers the roadmap. One thing is certain, I will not one day show up and mint a shit tons of it and dump on you due to its fair launch nature. 
 
 ## Is Wife Change DAO and Wife Change Money sexist? Do we disrespect women or ignore LGBT?
-No. We choose this name because it is a funny meme that can catch on. We plan to deploy a converting contract that can convert WCM to Husband Change Money token or Partner Change token. The conversion will be two ways. 
+No (unless the DAO later collectively decide otherwise).
+
+We choose this name because it is a funny meme that can catch on. We plan to deploy a converting contract that can convert WCM to Husband Change Money token or Partner Change token. The conversion will be two ways. 
 
 ## What do I mean by 'Fair Launch'?
 
