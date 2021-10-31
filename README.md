@@ -17,7 +17,7 @@ It is **fair** for several reasons:
 
 1. No one other than whoever control the BSC chain can do anything to stop it. If the founder is arrested and tortured, he wouldn't take your coins because the admin key is burned.
 2. Even though the genesis liquidity is entirely divided by the genesis liquidity sponsors, the sponsors only have limited upside. As the price of the coin goes up, their LPs will suffer impermanant loss. And anyone is free to provide LP, their share in the pool will certainly diminish. 
-3. In order to sustain their upside, even the earliest adopters have to buy just like everyone else. Even through the token itself is a social coordination mechanism, the early adopters buying the coin also face the Byzantine General dillemma: how do they trust each other to not dump on each other? How can they be sure the project will success and they don't lose money by holding a useless token? The answer is there isn't any mechanism built to coordinate. They will have to stomach the risk just like everyone else. 
+3. In order to sustain their upside, even the earliest adopters have to buy just like everyone else. Even through the token itself is a social coordination mechanism, the early adopters who are buying the coin face the Byzantine General dillemma: how do they trust each other such that they don't get dumped on by each other? How can they be sure the project will succeed and they don't lose money by holding a useless token? The answer is there isn't any mechanism built to coordinate. They will have to stomach the risk just like everyone else. 
 
 ## Roadmap
 
