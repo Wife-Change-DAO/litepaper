@@ -34,7 +34,7 @@ Like many other shitcoins, as a community we has a roadmap. The bottomline is th
 	
 2.0 Fart protocol launch
 - Fart is a OlympusDAO clone. Its native token is called FART.
-- The rule is exactly the same as OHM. Exactly like OHM, FART is a shit shit coin and ought to be dumped into oblivian. But anyone is welcome to farm the cosmic yield.
+- The rule is exactly the same as OHM. Exactly like OHM, FART is a shitty shit coin and ought to be dumped into oblivian. But anyone is welcome to farm the cosmic yield.
 - the official liquidity of FART will be WCM. The bond will be offered in FART-WCM LP tokens.
 - Initial distribution of the FART tokens will be offered in WCM.
 - 10% of the Fart protocol income will be used to for provisioning of the WCM liquidity.
