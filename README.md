@@ -26,15 +26,15 @@ It is **fair** for several reasons:
 
 ## Roadmap
 
-Like many other shitcoins, as a community we has a roadmap. The bottomline is that the WCM is the Wife Change DAO's ecosystem's money.
+Like any other decent meme coins, as a community we has a roadmap of delivering low effort copycats to boost WCM's monetary premium. 
 
 0.0 Wife Change DAO formulation
 
 0.1 Wife Change Money token launch
 
 1.0 WifeSwap Dex launch.
-- Another shitcoin Wife Swap Token (WST) will be launched to help bootstrap the liquidity. 
-- A portion of the trading fee will be rewarded to WST holder.
+- A Wife Swap token (WSWAP) will be launched to help bootstrap the liquidity. 
+- A portion of the trading fee will be rewarded to WSWAP holder.
 - 10% of the trading fee will be used to for provisioning of the WCM liquidity (protocol controled liquidity). This will be permanantly locked. 
 	
 2.0 Fart protocol launch
