@@ -43,3 +43,7 @@ Like any other decent meme coins, as a community we has a roadmap of delivering 
 - the official liquidity of FART will be WCM. The bond will be offered in FART-WCM LP tokens.
 - Initial distribution of the FART tokens will be offered in WCM.
 - 10% of the Fart protocol income will be used to for provisioning of the WCM liquidity.
+
+...
+
+10.0 TITS University
